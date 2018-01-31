@@ -1,0 +1,23 @@
+{
+  "name": "digitrecognizer",
+  "version": "0.0.1",
+  "description": "Digit Recognizer using Synaptic.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spmartin823/DigitRecognizer.git"
+  },
+  "author": "Seamus Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spmartin823/DigitRecognizer/issues"
+  },
+  "homepage": "https://github.com/spmartin823/DigitRecognizer#readme",
+  "dependencies": {
+    "mnist": "^1.1.0",
+    "synaptic": "^1.1.4"
+  }
+}
